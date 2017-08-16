@@ -1,0 +1,460 @@
+<TaskerData sr="" dvi="1" tv="5.0u3m">
+	<Profile sr="prof10" ve="2">
+		<cdate>1490541445025</cdate>
+		<edate>1492880086032</edate>
+		<flags>2</flags>
+		<id>10</id>
+		<mid0>11</mid0>
+		<App sr="con0" ve="2">
+			<cls0>com.whatsapp.Main</cls0>
+			<cls1>com.touchtype.LauncherActivity-Icon</cls1>
+			<cls10>com.google.android.youtube.app.honeycomb.Shell$HomeActivity</cls10>
+			<cls11>com.google.android.apps.translate.TranslateActivity</cls11>
+			<cls12>com.twitter.android.StartActivity</cls12>
+			<cls13>com.android.vending.AssetBrowserActivity</cls13>
+			<cls14>com.google.android.keep.activities.BrowseActivity</cls14>
+			<cls15>com.imdb.mobile.HomeActivity</cls15>
+			<cls16>com.eksicep.MainActivity</cls16>
+			<cls17>com.box.android.activities.login.SplashScreenActivity</cls17>
+			<cls18>com.spotify.music.MainActivity</cls18>
+			<cls2>com.skype.raider.Main</cls2>
+			<cls3>com.google.android.apps.chrome.Main</cls3>
+			<cls4>com.amazon.mShop.home.HomeActivity</cls4>
+			<cls5>com.ninegag.android.app.ui.SplashScreenActivity</cls5>
+			<cls6>je.fit.SplashScreenActivity</cls6>
+			<cls7>com.reddit.frontpage.StartActivity</cls7>
+			<cls8>com.vodafone.selfservis.activities.MainActivity</cls8>
+			<cls9>com.inovel.app.yemeksepeti.SplashScreenActivity</cls9>
+			<flags>2</flags>
+			<label0>WhatsApp</label0>
+			<label1>SwiftKey Klavye</label1>
+			<label10>YouTube</label10>
+			<label11>Çeviri</label11>
+			<label12>Twitter</label12>
+			<label13>Play Store</label13>
+			<label14>Keep</label14>
+			<label15>IMDb</label15>
+			<label16>ekşicep</label16>
+			<label17>Box</label17>
+			<label18>Spotify</label18>
+			<label2>Skype</label2>
+			<label3>Chrome</label3>
+			<label4>Amazon Shopping</label4>
+			<label5>9GAG</label5>
+			<label6>JEFIT</label6>
+			<label7>Reddit</label7>
+			<label8>Yanımda</label8>
+			<label9>Yemeksepeti</label9>
+			<pkg0>com.whatsapp</pkg0>
+			<pkg1>com.touchtype.swiftkey</pkg1>
+			<pkg10>com.google.android.youtube</pkg10>
+			<pkg11>com.google.android.apps.translate</pkg11>
+			<pkg12>com.twitter.android</pkg12>
+			<pkg13>com.android.vending</pkg13>
+			<pkg14>com.google.android.keep</pkg14>
+			<pkg15>com.imdb.mobile</pkg15>
+			<pkg16>com.eksicep</pkg16>
+			<pkg17>com.box.android</pkg17>
+			<pkg18>com.spotify.music</pkg18>
+			<pkg2>com.skype.raider</pkg2>
+			<pkg3>com.android.chrome</pkg3>
+			<pkg4>com.amazon.mShop.android.shopping</pkg4>
+			<pkg5>com.ninegag.android.app</pkg5>
+			<pkg6>je.fit</pkg6>
+			<pkg7>com.reddit.frontpage</pkg7>
+			<pkg8>com.vodafone.selfservis</pkg8>
+			<pkg9>com.inovel.app.yemeksepeti</pkg9>
+		</App>
+	</Profile>
+	<Profile sr="prof12" ve="2">
+		<cdate>1490779532787</cdate>
+		<edate>1502273539175</edate>
+		<flags>2</flags>
+		<id>12</id>
+		<mid0>13</mid0>
+		<App sr="con0" ve="2">
+			<cls0>com.snapchat.android.LandingPageActivity</cls0>
+			<flags>2</flags>
+			<label0>Snapchat</label0>
+			<pkg0>com.snapchat.android</pkg0>
+		</App>
+	</Profile>
+	<Profile sr="prof16" ve="2">
+		<cdate>1502182901266</cdate>
+		<edate>1502690183713</edate>
+		<flags>2</flags>
+		<id>16</id>
+		<mid0>27</mid0>
+		<nme>Display Off And Not At Home</nme>
+		<Event sr="con0" ve="2">
+			<code>210</code>
+			<pri>0</pri>
+		</Event>
+		<State sr="con1" ve="2">
+			<code>165</code>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%HOME</lhs>
+					<op>0</op>
+					<rhs>0</rhs>
+				</Condition>
+			</ConditionList>
+		</State>
+	</Profile>
+	<Profile sr="prof17" ve="2">
+		<cdate>1490545383770</cdate>
+		<edate>1491375667193</edate>
+		<flags>2</flags>
+		<id>17</id>
+		<mid0>14</mid0>
+		<nme>Wednesdays or Sundays</nme>
+		<Day sr="con0">
+			<wday0>4</wday0>
+			<wday1>1</wday1>
+		</Day>
+	</Profile>
+	<Profile sr="prof2" ve="2">
+		<cdate>1490540020495</cdate>
+		<edate>1502273043300</edate>
+		<flags>2</flags>
+		<id>2</id>
+		<mid0>4</mid0>
+		<mid1>3</mid1>
+		<Loc sr="con0">
+			<cname>Home</cname>
+			<lat>41.11135482788086</lat>
+			<long>29.048856735229492</long>
+			<rad>100.0</rad>
+		</Loc>
+	</Profile>
+	<Profile sr="prof20" ve="2">
+		<cdate>1491144431875</cdate>
+		<edate>1502273526769</edate>
+		<flags>2</flags>
+		<id>20</id>
+		<mid0>18</mid0>
+		<mid1>21</mid1>
+		<App sr="con0" ve="2">
+			<cls0>com.google.android.maps.MapsActivity</cls0>
+			<flags>2</flags>
+			<label0>Haritalar</label0>
+			<pkg0>com.google.android.apps.maps</pkg0>
+		</App>
+	</Profile>
+	<Profile sr="prof22" ve="2">
+		<cdate>1490547480640</cdate>
+		<edate>1500824378835</edate>
+		<flags>2</flags>
+		<id>22</id>
+		<mid0>19</mid0>
+		<App sr="con0" ve="2">
+			<cls0>com.sec.android.gallery3d.app.GalleryOpaqueActivity</cls0>
+			<cls1>com.touchtype.LauncherActivity-Icon</cls1>
+			<flags>2</flags>
+			<label0>Galeri</label0>
+			<label1>SwiftKey Klavye</label1>
+			<pkg0>com.sec.android.gallery3d</pkg0>
+			<pkg1>com.touchtype.swiftkey</pkg1>
+		</App>
+	</Profile>
+	<Profile sr="prof23" ve="2">
+		<cdate>1491406556332</cdate>
+		<edate>1500824416193</edate>
+		<flags>2</flags>
+		<id>23</id>
+		<limit>true</limit>
+		<mid0>24</mid0>
+		<mid1>25</mid1>
+		<State sr="con0" ve="2">
+			<code>140</code>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="20"/>
+		</State>
+	</Profile>
+	<Profile sr="prof26" ve="2">
+		<cdate>1491408272327</cdate>
+		<edate>1500824424815</edate>
+		<flags>2</flags>
+		<id>26</id>
+		<limit>true</limit>
+		<mid0>25</mid0>
+		<State sr="con0" ve="2">
+			<code>10</code>
+			<Int sr="arg0" val="0"/>
+		</State>
+	</Profile>
+	<Profile sr="prof33" ve="2">
+		<cdate>1502273323263</cdate>
+		<edate>1502273430052</edate>
+		<flags>2</flags>
+		<id>33</id>
+		<mid0>32</mid0>
+		<nme>Display On And Not At Home</nme>
+		<Event sr="con0" ve="2">
+			<code>208</code>
+			<pri>0</pri>
+		</Event>
+		<State sr="con1" ve="2">
+			<code>165</code>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%HOME</lhs>
+					<op>0</op>
+					<rhs>0</rhs>
+				</Condition>
+			</ConditionList>
+		</State>
+	</Profile>
+	<Profile sr="prof5" ve="2">
+		<cdate>1490540480807</cdate>
+		<edate>1502273555156</edate>
+		<flags>2</flags>
+		<id>5</id>
+		<mid0>6</mid0>
+		<State sr="con0" ve="2">
+			<code>30</code>
+			<Int sr="arg0" val="0"/>
+		</State>
+	</Profile>
+	<Profile sr="prof8" ve="2">
+		<cdate>1490540980345</cdate>
+		<edate>1500824411394</edate>
+		<flags>2</flags>
+		<id>8</id>
+		<mid0>9</mid0>
+		<App sr="con0" ve="2">
+			<cls0>com.google.android.gms.auth.uiflows.addaccount.AccountIntroActivity</cls0>
+			<flags>2</flags>
+			<label0>Google Play hizmetleri</label0>
+			<pkg0>com.google.android.gms</pkg0>
+		</App>
+	</Profile>
+	<Project sr="proj0" ve="2">
+		<cdate>1490364789288</cdate>
+		<mdate>1502273495651</mdate>
+		<name>Base</name>
+		<pids>2,33,16,5,8,10,17,22,12,20,23,26</pids>
+		<tids>3,4,6,9,11,21,18,14,13,24,19,25,27,32</tids>
+		<Img sr="icon" ve="2">
+			<nme>hd_aaa_ext_home</nme>
+		</Img>
+	</Project>
+	<Task sr="task11">
+		<cdate>1490541454363</cdate>
+		<edate>1492880086032</edate>
+		<id>11</id>
+		<nme>Disable Location</nme>
+		<Action sr="act0" ve="7">
+			<code>901</code>
+			<Int sr="arg0" val="2"/>
+		</Action>
+	</Task>
+	<Task sr="task13">
+		<cdate>1490779539257</cdate>
+		<edate>1493095381226</edate>
+		<id>13</id>
+		<nme>Mute</nme>
+		<Action sr="act0" ve="7">
+			<code>307</code>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task14">
+		<cdate>1490544944276</cdate>
+		<edate>1491375618297</edate>
+		<id>14</id>
+		<nme>Data Usage Check</nme>
+		<Action sr="act0" ve="7">
+			<code>41</code>
+			<Str sr="arg0" ve="3">7000</Str>
+			<Str sr="arg1" ve="3">OZET</Str>
+			<Int sr="arg2" val="1"/>
+		</Action>
+	</Task>
+	<Task sr="task18">
+		<cdate>1491144374879</cdate>
+		<edate>1502273518504</edate>
+		<id>18</id>
+		<nme>High Accuracy Location</nme>
+		<Action sr="act0" ve="7">
+			<code>332</code>
+			<Int sr="arg0" val="1"/>
+		</Action>
+	</Task>
+	<Task sr="task19">
+		<cdate>1490546251526</cdate>
+		<edate>1500824378835</edate>
+		<id>19</id>
+		<nme>Display On</nme>
+		<Action sr="act0" ve="7">
+			<code>812</code>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="4"/>
+		</Action>
+	</Task>
+	<Task sr="task21">
+		<cdate>1491144456565</cdate>
+		<edate>1500824329920</edate>
+		<id>21</id>
+		<nme>Low Accuracy Location</nme>
+		<Action sr="act0" ve="7">
+			<code>332</code>
+			<Int sr="arg0" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task24">
+		<cdate>1491406575644</cdate>
+		<edate>1500824401896</edate>
+		<id>24</id>
+		<nme>Battery Saver</nme>
+		<Action sr="act0" ve="7">
+			<code>331</code>
+			<Int sr="arg0" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task25">
+		<cdate>1491406655096</cdate>
+		<edate>1491408176682</edate>
+		<id>25</id>
+		<nme>Exit Battery Saver</nme>
+		<Action sr="act0" ve="7">
+			<code>331</code>
+			<Int sr="arg0" val="1"/>
+		</Action>
+	</Task>
+	<Task sr="task27">
+		<cdate>1502182919804</cdate>
+		<edate>1502690183713</edate>
+		<id>27</id>
+		<nme>Switch Data Periodically</nme>
+		<Action sr="act0" ve="7">
+			<code>433</code>
+			<Int sr="arg0" val="2"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>30</code>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="3"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task3">
+		<cdate>1490540097246</cdate>
+		<edate>1502273043300</edate>
+		<id>3</id>
+		<nme>Leaving Home</nme>
+		<Action sr="act0" ve="7">
+			<code>425</code>
+			<Int sr="arg0" val="0"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>433</code>
+			<Int sr="arg0" val="1"/>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>808</code>
+			<Int sr="arg0" val="1"/>
+		</Action>
+		<Action sr="act3" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%HOME</Str>
+			<Str sr="arg1" ve="3">0</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task32">
+		<cdate>1502273214839</cdate>
+		<edate>1502273227233</edate>
+		<id>32</id>
+		<nme>Open Mobile Data</nme>
+		<Action sr="act0" ve="7">
+			<code>433</code>
+			<Int sr="arg0" val="1"/>
+		</Action>
+	</Task>
+	<Task sr="task4">
+		<cdate>1490540314650</cdate>
+		<edate>1502272893111</edate>
+		<id>4</id>
+		<nme>Coming Home</nme>
+		<Action sr="act0" ve="7">
+			<code>425</code>
+			<Int sr="arg0" val="1"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>433</code>
+			<Int sr="arg0" val="0"/>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>808</code>
+			<Int sr="arg0" val="0"/>
+		</Action>
+		<Action sr="act3" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%HOME</Str>
+			<Str sr="arg1" ve="3">1</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task6">
+		<cdate>1490540516343</cdate>
+		<edate>1502273555156</edate>
+		<id>6</id>
+		<nme>Set Sound Level</nme>
+		<Action sr="act0" ve="7">
+			<code>307</code>
+			<Int sr="arg0" val="6"/>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task9">
+		<cdate>1490540991628</cdate>
+		<edate>1500824411394</edate>
+		<id>9</id>
+		<nme>Don't Be So Aggressive</nme>
+		<Action sr="act0" ve="7">
+			<code>901</code>
+			<Int sr="arg0" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%BATT</lhs>
+					<op>6</op>
+					<rhs>30</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>137</code>
+			<Int sr="arg0" val="0"/>
+			<Str sr="arg1" ve="3"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%BATT</lhs>
+					<op>6</op>
+					<rhs>15</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>331</code>
+			<Int sr="arg0" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%BATT</lhs>
+					<op>6</op>
+					<rhs>30</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+	</Task>
+</TaskerData>
